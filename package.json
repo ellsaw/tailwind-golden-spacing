@@ -1,6 +1,6 @@
 {
   "name": "tw-golden-spacing",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Spacing theme for tailwind based on the golden ratio for easier visual hierarchy with more code structure",
   "style": "src/index.css",
   "exports": {
