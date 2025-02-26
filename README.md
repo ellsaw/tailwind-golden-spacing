@@ -12,9 +12,9 @@ To use this theme in your project, install the node module with `npm i tw-golden
 The theme provides the following spacing utilities **with Tailwind Intellisence sorting for easy use**:
 
 - **`golden-0-xs`** - 0.128rem
-- **`golden-1-s`** - 0.272rem
-- **`golden-2-m`** - 0.618rem
-- **`golden-3-l`** - 1rem
+- **`golden-1-sm`** - 0.272rem
+- **`golden-2-md`** - 0.618rem
+- **`golden-3-lg`** - 1rem
 - **`golden-4-xl`** - 1.618rem
 - **`golden-5-2xl`** - 2.618rem
 - **`golden-6-3xl`** - 4.236rem
