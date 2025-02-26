@@ -1,7 +1,7 @@
 # 🌟 Tailwind Golden Ratio Spacing 🌟
 
 This is a custom **Tailwind CSS** theme that provides spacing utilities based on the **Golden Ratio**. The Golden Ratio is a special number approximately equal to **1.618**, which is found in nature, art, and architecture.\
-In addition to making your design subconsciously more pleasing to look at, this theme also makes **visual hierarchy** easier and more structured within your Tailwind code.
+In addition to making your design subconsciously more pleasing to look at, this theme also makes creating layouts with correct **spacing hierachy** easier to implement and more structured within your Tailwind code.
 
 ## 🧑‍💻 Installation
 
