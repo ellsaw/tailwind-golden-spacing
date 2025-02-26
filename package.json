@@ -2,7 +2,10 @@
   "name": "tw-golden-spacing",
   "version": "1.0.0",
   "description": "Spacing theme for tailwind based on the golden ratio for easier visual hierarchy with more code structure",
-  "main": "./dist/tw-golden-spacing.css",
+  "style": "src/index.css",
+  "exports": {
+    ".": "./src/index.css"
+  },
   "keywords": [
     "Tailwind",
     "CSS",

@@ -9,18 +9,18 @@ To use this theme in your project, install the node module with `npm i tw-golden
 
 ## 🎨 Custom Spacing Values
 
-The theme provides the following spacing utilities:
+The theme provides the following spacing utilities **with Tailwind Intellisence sorting for easy use**:
 
-- **`golden-xs`** - 0.128rem
-- **`golden-s`** - 0.272rem
-- **`golden-m`** - 0.618rem
-- **`golden-l`** - 1rem
-- **`golden-xl`** - 1.618rem
-- **`golden-2xl`** - 2.618rem
-- **`golden-3xl`** - 4.236rem
-- **`golden-4xl`** - 6.854rem
+- **`golden-0-xs`** - 0.128rem
+- **`golden-1-s`** - 0.272rem
+- **`golden-2-m`** - 0.618rem
+- **`golden-3-l`** - 1rem
+- **`golden-4-xl`** - 1.618rem
+- **`golden-5-2xl`** - 2.618rem
+- **`golden-6-3xl`** - 4.236rem
+- **`golden-7-4xl`** - 6.854rem
 
 ## 💡 Example
 
   ```html
-  <div class="p-golden-xl">This div has a padding of 1.618rem</div>
+  <div class="p-golden-4-xl">This div has a padding of 1.618rem</div>
