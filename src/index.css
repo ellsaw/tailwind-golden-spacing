@@ -1,10 +1,10 @@
 @theme {
-    --spacing-golden-xs: 0.128em;
-    --spacing-golden-sm: 0.272em;
-    --spacing-golden-md: 0.618em;
-    --spacing-golden-lg: 1em;
-    --spacing-golden-xl: 1.618em;
-    --spacing-golden-2xl: 2.618em;
-    --spacing-golden-3xl: 4.236em;
-    --spacing-golden-4xl: 6.854em;
+    --spacing-golden-xs: 0.128rem;
+    --spacing-golden-sm: 0.272rem;
+    --spacing-golden-md: 0.618rem;
+    --spacing-golden-lg: 1rem;
+    --spacing-golden-xl: 1.618rem;
+    --spacing-golden-2xl: 2.618rem;
+    --spacing-golden-3xl: 4.236rem;
+    --spacing-golden-4xl: 6.854rem;
 }
